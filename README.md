@@ -1,2 +1,6 @@
 https://www.kaggle.com/code/swift27/bearing-health-classi-16june
 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
+
+This paper proposes a two-path bearing fault diagnosis system using deep learning and language models and introduces a novel approach to data augmentation using RMS-scaled Gaussian noise. Vibration raw signals are split and transformed to 2D spectrograms by Short-Time Fourier Transform (STFT) in order to enable spatial learning in features. A CNN model is learned with augmented data with frequency masking, scaling in amplification, and our proposed RMS-scaled noise injection — and this fortifies fault classification in robusteness within signal variation. The model can classify bearing states in four states: Normal, Inner Race (IR), Outer Race (OR), and Ball Faults with accuracy.
+
+In tandem, we conduct a retrieval-augmented generation (RAG) pipeline with a locally deployed LLaMA 3.2 model. Manually designed statistical features (RMS, kurtosis, skewness, crest factor, dominant frequency) are inserted through Sentence-BERT and compared to a domain knowledge base via FAISS. Retrieved cases are submitted to the LLM for explainable, feature-level diagnosis. Experimental outcomes demonstrate both models to have strong accuracy, providing a trade-off in predictive performance and explainability.
