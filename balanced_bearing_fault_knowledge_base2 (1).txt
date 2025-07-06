@@ -1,0 +1,335 @@
+Label: Ball
+RMS: 0.1081, Kurtosis: 0.3248, Skewness: -0.0084, P2P: 1.1764, Crest: 5.9738, Dominant Freq: 1404 Hz
+
+Label: Ball
+RMS: 0.1216, Kurtosis: 5.3356, Skewness: -0.0235, P2P: 2.5493, Crest: 10.8391, Dominant Freq: 3385 Hz
+
+Label: Ball
+RMS: 0.1384, Kurtosis: 0.006, Skewness: 0.0197, P2P: 1.2993, Crest: 4.7665, Dominant Freq: 3478 Hz
+
+Label: Ball
+RMS: 0.1365, Kurtosis: 6.9413, Skewness: 0.0055, P2P: 2.8883, Crest: 10.8037, Dominant Freq: 3385 Hz
+
+Label: Ball
+RMS: 0.1397, Kurtosis: -0.0104, Skewness: -0.0026, P2P: 1.145, Crest: 4.1456, Dominant Freq: 3446 Hz
+
+Label: Ball
+RMS: 2.1526, Kurtosis: 0.9302, Skewness: 0.0425, P2P: 20.7495, Crest: 5.1248, Dominant Freq: 3143 Hz
+
+Label: Ball
+RMS: 2.0239, Kurtosis: 1.0362, Skewness: 0.049, P2P: 20.0447, Crest: 5.3085, Dominant Freq: 2790 Hz
+
+Label: Ball
+RMS: 0.141, Kurtosis: 6.6159, Skewness: -0.0022, P2P: 3.2775, Crest: 11.772, Dominant Freq: 3208 Hz
+
+Label: Ball
+RMS: 0.1397, Kurtosis: -0.0802, Skewness: -0.0038, P2P: 1.0914, Crest: 4.0229, Dominant Freq: 3478 Hz
+
+Label: Ball
+RMS: 0.1408, Kurtosis: 6.1136, Skewness: 0.1708, P2P: 3.198, Crest: 12.875, Dominant Freq: 359 Hz
+
+Label: Ball
+RMS: 0.136, Kurtosis: 14.1202, Skewness: 0.1669, P2P: 3.7021, Crest: 14.6264, Dominant Freq: 1383 Hz
+
+Label: Ball
+RMS: 2.1093, Kurtosis: 0.734, Skewness: 0.0537, P2P: 19.7949, Crest: 4.9832, Dominant Freq: 2825 Hz
+
+Label: Ball
+RMS: 0.1385, Kurtosis: -0.043, Skewness: -0.0149, P2P: 1.1991, Crest: 4.3818, Dominant Freq: 3262 Hz
+
+Label: Ball
+RMS: 0.1064, Kurtosis: 0.2762, Skewness: 0.0025, P2P: 0.9757, Crest: 4.832, Dominant Freq: 3345 Hz
+
+Label: Ball
+RMS: 0.1477, Kurtosis: -0.1982, Skewness: 0.0171, P2P: 1.1249, Crest: 3.8376, Dominant Freq: 3432 Hz
+
+Label: Ball
+RMS: 0.1186, Kurtosis: 0.1167, Skewness: 0.0194, P2P: 1.057, Crest: 4.8581, Dominant Freq: 1387 Hz
+
+Label: Ball
+RMS: 0.1582, Kurtosis: 14.5885, Skewness: 0.1714, P2P: 4.2246, Crest: 14.2961, Dominant Freq: 1437 Hz
+
+Label: Ball
+RMS: 2.1503, Kurtosis: 0.7068, Skewness: 0.0424, P2P: 18.6979, Crest: 4.3664, Dominant Freq: 2891 Hz
+
+Label: Ball
+RMS: 0.132, Kurtosis: 9.2604, Skewness: 0.1502, P2P: 2.9999, Crest: 12.0177, Dominant Freq: 1383 Hz
+
+Label: Ball
+RMS: 2.0414, Kurtosis: 0.9983, Skewness: 0.0577, P2P: 20.2164, Crest: 5.3546, Dominant Freq: 2824 Hz
+
+Label: Ball
+RMS: 2.1467, Kurtosis: 0.8314, Skewness: 0.0436, P2P: 20.3637, Crest: 4.8641, Dominant Freq: 2892 Hz
+
+Label: Ball
+RMS: 0.1172, Kurtosis: 0.0942, Skewness: 0.0298, P2P: 1.0073, Crest: 4.3869, Dominant Freq: 1387 Hz
+
+Label: Ball
+RMS: 0.1479, Kurtosis: 5.8119, Skewness: 0.0241, P2P: 2.5822, Crest: 8.816, Dominant Freq: 360 Hz
+
+Label: Ball
+RMS: 0.1553, Kurtosis: -0.1607, Skewness: 0.0185, P2P: 1.2498, Crest: 4.0312, Dominant Freq: 3380 Hz
+
+Label: Ball
+RMS: 2.0329, Kurtosis: 0.7853, Skewness: 0.047, P2P: 21.7659, Crest: 5.7424, Dominant Freq: 2791 Hz
+
+Label: Ball
+RMS: 0.1484, Kurtosis: 14.7416, Skewness: 0.2905, P2P: 4.157, Crest: 15.3495, Dominant Freq: 1437 Hz
+
+Label: Ball
+RMS: 0.1462, Kurtosis: 7.4301, Skewness: 0.1204, P2P: 3.16, Crest: 12.5785, Dominant Freq: 359 Hz
+
+Label: Ball
+RMS: 2.1355, Kurtosis: 0.872, Skewness: 0.0428, P2P: 21.4444, Crest: 5.3214, Dominant Freq: 2851 Hz
+
+Label: IR
+RMS: 0.8421, Kurtosis: 0.1999, Skewness: 0.0969, P2P: 7.5158, Crest: 4.6678, Dominant Freq: 632 Hz
+
+Label: IR
+RMS: 0.2917, Kurtosis: 2.3956, Skewness: 0.1858, P2P: 3.1092, Crest: 5.9618, Dominant Freq: 3587 Hz
+
+Label: IR
+RMS: 0.2989, Kurtosis: 2.5858, Skewness: 0.0888, P2P: 3.0293, Crest: 5.4856, Dominant Freq: 2862 Hz
+
+Label: IR
+RMS: 0.1652, Kurtosis: 18.8503, Skewness: -0.0001, P2P: 3.6883, Crest: 11.5005, Dominant Freq: 3668 Hz
+
+Label: IR
+RMS: 0.4984, Kurtosis: 5.2086, Skewness: 0.247, P2P: 6.7471, Crest: 7.2696, Dominant Freq: 2811 Hz
+
+Label: IR
+RMS: 0.3118, Kurtosis: 2.2342, Skewness: -0.0133, P2P: 3.0447, Crest: 4.9249, Dominant Freq: 2507 Hz
+
+Label: IR
+RMS: 0.1809, Kurtosis: 15.3451, Skewness: 0.0246, P2P: 4.1125, Crest: 11.7573, Dominant Freq: 1386 Hz
+
+Label: IR
+RMS: 0.4782, Kurtosis: 4.8707, Skewness: 0.2513, P2P: 6.1863, Crest: 6.9757, Dominant Freq: 2811 Hz
+
+Label: IR
+RMS: 0.5254, Kurtosis: 4.146, Skewness: 0.3003, P2P: 6.778, Crest: 7.2099, Dominant Freq: 2883 Hz
+
+Label: IR
+RMS: 0.2938, Kurtosis: 2.501, Skewness: 0.1241, P2P: 2.9449, Crest: 5.249, Dominant Freq: 2582 Hz
+
+Label: IR
+RMS: 0.4483, Kurtosis: 5.2686, Skewness: 0.2933, P2P: 6.0239, Crest: 7.1958, Dominant Freq: 2829 Hz
+
+Label: IR
+RMS: 0.5255, Kurtosis: 4.7868, Skewness: 0.3062, P2P: 7.1183, Crest: 7.1295, Dominant Freq: 2883 Hz
+
+Label: IR
+RMS: 0.162, Kurtosis: 19.0108, Skewness: 0.0177, P2P: 3.7232, Crest: 11.6057, Dominant Freq: 1404 Hz
+
+Label: IR
+RMS: 0.8237, Kurtosis: 0.2868, Skewness: 0.1626, P2P: 7.0898, Crest: 4.4968, Dominant Freq: 615 Hz
+
+Label: IR
+RMS: 0.3003, Kurtosis: 2.5461, Skewness: 0.0913, P2P: 2.9331, Crest: 5.02, Dominant Freq: 3491 Hz
+
+Label: IR
+RMS: 0.2911, Kurtosis: 2.3958, Skewness: 0.1416, P2P: 2.9973, Crest: 5.8493, Dominant Freq: 3586 Hz
+
+Label: IR
+RMS: 0.446, Kurtosis: 4.7683, Skewness: 0.2507, P2P: 5.9447, Crest: 7.262, Dominant Freq: 2846 Hz
+
+Label: IR
+RMS: 0.4378, Kurtosis: 4.549, Skewness: 0.262, P2P: 6.9701, Crest: 8.4192, Dominant Freq: 2906 Hz
+
+Label: IR
+RMS: 0.292, Kurtosis: 2.58, Skewness: 0.1374, P2P: 2.8944, Crest: 5.4146, Dominant Freq: 3539 Hz
+
+Label: IR
+RMS: 0.8401, Kurtosis: 0.2821, Skewness: 0.1522, P2P: 8.7313, Crest: 5.4055, Dominant Freq: 624 Hz
+
+Label: IR
+RMS: 0.8227, Kurtosis: 0.3474, Skewness: 0.1598, P2P: 8.1673, Crest: 5.2836, Dominant Freq: 615 Hz
+
+Label: IR
+RMS: 0.8417, Kurtosis: 0.2952, Skewness: 0.1368, P2P: 7.5626, Crest: 4.7856, Dominant Freq: 624 Hz
+
+Label: IR
+RMS: 0.1655, Kurtosis: 19.0349, Skewness: 0.0001, P2P: 4.0316, Crest: 12.2683, Dominant Freq: 2589 Hz
+
+Label: IR
+RMS: 0.1999, Kurtosis: 18.8069, Skewness: -0.0513, P2P: 3.9451, Crest: 10.0573, Dominant Freq: 2622 Hz
+
+Label: IR
+RMS: 0.1805, Kurtosis: 14.9329, Skewness: 0.0406, P2P: 3.9711, Crest: 11.1777, Dominant Freq: 1386 Hz
+
+Label: IR
+RMS: 0.4477, Kurtosis: 5.4228, Skewness: 0.3155, P2P: 6.7025, Crest: 8.075, Dominant Freq: 2830 Hz
+
+Label: IR
+RMS: 0.1641, Kurtosis: 18.513, Skewness: 0.0298, P2P: 3.626, Crest: 11.2965, Dominant Freq: 3464 Hz
+
+Label: IR
+RMS: 0.8327, Kurtosis: 0.1931, Skewness: 0.0992, P2P: 7.4922, Crest: 4.5336, Dominant Freq: 632 Hz
+
+Label: OR
+RMS: 0.5513, Kurtosis: 18.4203, Skewness: 0.1554, P2P: 11.9711, Crest: 11.0872, Dominant Freq: 3393 Hz
+
+Label: OR
+RMS: 0.28, Kurtosis: 3.3924, Skewness: 0.1563, P2P: 3.7735, Crest: 7.4998, Dominant Freq: 617 Hz
+
+Label: OR
+RMS: 0.2377, Kurtosis: 4.6356, Skewness: -0.0307, P2P: 3.3049, Crest: 7.38, Dominant Freq: 3429 Hz
+
+Label: OR
+RMS: 0.0957, Kurtosis: 0.0285, Skewness: 0.0081, P2P: 0.8134, Crest: 4.2817, Dominant Freq: 3471 Hz
+
+Label: OR
+RMS: 0.5918, Kurtosis: 4.5565, Skewness: 0.0357, P2P: 6.108, Crest: 5.2313, Dominant Freq: 3401 Hz
+
+Label: OR
+RMS: 0.8516, Kurtosis: 1.0034, Skewness: 0.0739, P2P: 6.854, Crest: 4.1381, Dominant Freq: 2788 Hz
+
+Label: OR
+RMS: 0.2784, Kurtosis: 3.9022, Skewness: 0.1864, P2P: 3.7519, Crest: 7.6072, Dominant Freq: 627 Hz
+
+Label: OR
+RMS: 0.3113, Kurtosis: 30.2436, Skewness: -0.4423, P2P: 7.1898, Crest: 11.854, Dominant Freq: 1380 Hz
+
+Label: OR
+RMS: 0.8038, Kurtosis: 1.1255, Skewness: 0.0843, P2P: 6.9352, Crest: 4.5027, Dominant Freq: 2633 Hz
+
+Label: OR
+RMS: 0.3128, Kurtosis: 29.8408, Skewness: -0.4364, P2P: 7.1934, Crest: 11.6831, Dominant Freq: 3397 Hz
+
+Label: OR
+RMS: 0.342, Kurtosis: 30.1759, Skewness: -0.4358, P2P: 8.0535, Crest: 11.9601, Dominant Freq: 581 Hz
+
+Label: OR
+RMS: 0.5621, Kurtosis: 19.2437, Skewness: 0.1155, P2P: 12.8994, Crest: 11.8354, Dominant Freq: 3452 Hz
+
+Label: OR
+RMS: 0.3536, Kurtosis: 31.1378, Skewness: -0.4066, P2P: 7.9837, Crest: 11.3031, Dominant Freq: 3405 Hz
+
+Label: OR
+RMS: 0.3882, Kurtosis: 33.0701, Skewness: -0.325, P2P: 8.9729, Crest: 12.1873, Dominant Freq: 3473 Hz
+
+Label: OR
+RMS: 0.774, Kurtosis: 1.2131, Skewness: 0.066, P2P: 6.3557, Crest: 4.327, Dominant Freq: 2634 Hz
+
+Label: OR
+RMS: 0.0933, Kurtosis: -0.0362, Skewness: 0.0095, P2P: 0.7968, Crest: 4.2956, Dominant Freq: 3371 Hz
+
+Label: OR
+RMS: 0.5794, Kurtosis: 18.5241, Skewness: 0.093, P2P: 12.6728, Crest: 11.0661, Dominant Freq: 2795 Hz
+
+Label: OR
+RMS: 0.2554, Kurtosis: 5.4213, Skewness: -0.049, P2P: 3.5201, Crest: 7.1788, Dominant Freq: 3278 Hz
+
+Label: OR
+RMS: 0.2569, Kurtosis: 5.1926, Skewness: -0.0297, P2P: 3.5214, Crest: 7.4246, Dominant Freq: 3278 Hz
+
+Label: OR
+RMS: 0.8481, Kurtosis: 1.0757, Skewness: 0.0736, P2P: 6.7792, Crest: 4.0953, Dominant Freq: 2600 Hz
+
+Label: OR
+RMS: 0.7638, Kurtosis: 1.2631, Skewness: 0.0652, P2P: 6.3691, Crest: 4.2917, Dominant Freq: 2802 Hz
+
+Label: OR
+RMS: 0.2767, Kurtosis: 3.3719, Skewness: 0.1538, P2P: 3.9088, Crest: 8.3013, Dominant Freq: 617 Hz
+
+Label: OR
+RMS: 0.6716, Kurtosis: 4.5842, Skewness: 0.0577, P2P: 6.8312, Crest: 5.2825, Dominant Freq: 3444 Hz
+
+Label: OR
+RMS: 0.575, Kurtosis: 21.187, Skewness: 0.147, P2P: 13.3063, Crest: 11.5716, Dominant Freq: 569 Hz
+
+Label: OR
+RMS: 0.1005, Kurtosis: 0.0585, Skewness: 0.0009, P2P: 1.0956, Crest: 5.476, Dominant Freq: 3416 Hz
+
+Label: OR
+RMS: 0.2822, Kurtosis: 4.0959, Skewness: 0.1332, P2P: 3.8166, Crest: 7.0985, Dominant Freq: 471 Hz
+
+Label: OR
+RMS: 0.8479, Kurtosis: 1.021, Skewness: 0.0732, P2P: 6.7407, Crest: 4.0815, Dominant Freq: 2659 Hz
+
+Label: OR
+RMS: 0.2714, Kurtosis: 5.7913, Skewness: -0.0156, P2P: 4.0921, Crest: 7.9079, Dominant Freq: 3328 Hz
+
+Label: Normal
+RMS: 0.0658, Kurtosis: -0.0646, Skewness: -0.117, P2P: 0.4927, Crest: 3.7946, Dominant Freq: 2101 Hz
+
+Label: Normal
+RMS: 0.0744, Kurtosis: -0.2282, Skewness: -0.0199, P2P: 0.5338, Crest: 3.6729, Dominant Freq: 1066 Hz
+
+Label: Normal
+RMS: 0.0747, Kurtosis: -0.2633, Skewness: -0.0503, P2P: 0.5249, Crest: 3.5504, Dominant Freq: 1066 Hz
+
+Label: Normal
+RMS: 0.0724, Kurtosis: -0.2503, Skewness: -0.0246, P2P: 0.5286, Crest: 3.6531, Dominant Freq: 1036 Hz
+
+Label: Normal
+RMS: 0.0662, Kurtosis: -0.0738, Skewness: -0.1953, P2P: 0.5096, Crest: 3.9385, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0661, Kurtosis: -0.1307, Skewness: -0.1723, P2P: 0.5205, Crest: 4.0715, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0664, Kurtosis: -0.1066, Skewness: -0.1626, P2P: 0.4804, Crest: 3.6753, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0664, Kurtosis: -0.1066, Skewness: -0.1626, P2P: 0.4804, Crest: 3.6753, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0661, Kurtosis: -0.0781, Skewness: -0.1524, P2P: 0.4686, Crest: 3.6053, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0666, Kurtosis: -0.065, Skewness: -0.1714, P2P: 0.5651, Crest: 4.6234, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0663, Kurtosis: -0.0597, Skewness: -0.1347, P2P: 0.5393, Crest: 4.3252, Dominant Freq: 2101 Hz
+
+Label: Normal
+RMS: 0.0658, Kurtosis: -0.1033, Skewness: -0.1923, P2P: 0.4786, Crest: 3.8211, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0662, Kurtosis: -0.0738, Skewness: -0.1953, P2P: 0.5096, Crest: 3.9385, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0664, Kurtosis: -0.0182, Skewness: -0.1837, P2P: 0.4867, Crest: 3.6708, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0664, Kurtosis: -0.0182, Skewness: -0.1837, P2P: 0.4867, Crest: 3.6708, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0661, Kurtosis: -0.1307, Skewness: -0.1723, P2P: 0.5205, Crest: 4.0715, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0662, Kurtosis: -0.0075, Skewness: -0.1306, P2P: 0.5816, Crest: 4.6324, Dominant Freq: 2101 Hz
+
+Label: Normal
+RMS: 0.0661, Kurtosis: -0.0781, Skewness: -0.1524, P2P: 0.4686, Crest: 3.6053, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0669, Kurtosis: -0.0315, Skewness: -0.1506, P2P: 0.5545, Crest: 4.3439, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0658, Kurtosis: -0.0374, Skewness: -0.1311, P2P: 0.4794, Crest: 3.8617, Dominant Freq: 2101 Hz
+
+Label: Normal
+RMS: 0.0656, Kurtosis: -0.0498, Skewness: -0.1323, P2P: 0.5163, Crest: 4.197, Dominant Freq: 2101 Hz
+
+Label: Normal
+RMS: 0.0658, Kurtosis: -0.1033, Skewness: -0.1923, P2P: 0.4786, Crest: 3.8211, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0669, Kurtosis: -0.0315, Skewness: -0.1506, P2P: 0.5545, Crest: 4.3439, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0654, Kurtosis: -0.0935, Skewness: -0.1256, P2P: 0.5172, Crest: 4.0026, Dominant Freq: 2101 Hz
+
+Label: Normal
+RMS: 0.0666, Kurtosis: -0.065, Skewness: -0.1714, P2P: 0.5651, Crest: 4.6234, Dominant Freq: 90 Hz
+
+Label: Normal
+RMS: 0.0734, Kurtosis: -0.1895, Skewness: -0.0477, P2P: 0.5979, Crest: 4.2393, Dominant Freq: 1066 Hz
+
+Label: Normal
+RMS: 0.0661, Kurtosis: -0.0234, Skewness: -0.123, P2P: 0.5482, Crest: 4.2728, Dominant Freq: 2101 Hz
+
+Label: Normal
+RMS: 0.066, Kurtosis: -0.0102, Skewness: -0.1236, P2P: 0.5893, Crest: 4.63, Dominant Freq: 2101 Hz
